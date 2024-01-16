@@ -1,9 +1,9 @@
 <img width="618" alt="image" src="https://github.com/SashG91/SashG91/assets/97494070/dc885ed4-b3d7-403f-949d-759f1ec0fd80">
 
-### Hi there 👋
-## Full Stack Software Developer | Salesforce Success Graduate Participant
-## About me 👋
 
+## Full Stack Software Developer | Salesforce Success Graduate Participant
+
+## Hi there 👋
 I see myself as a product of consulting, education and tech. 
 
 I previously worked as an Environmental Scientist where I collaborated with engineers to mitigate the impact of development. My technical interest is a result of a Diploma in Full Stack Software Development (Predictive Analytics) and a participant in the Salesforce Success Graduate Programme. While studying for my Software Development Diploma I worked in education as a Senior Teacher, where I supported both teachers and school to reach common goals.
