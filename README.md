@@ -1,3 +1,6 @@
+
+<img width="582" alt="Screenshot 2024-01-16 at 15 52 28" src="https://github.com/SashG91/SashG91/assets/97494070/e9741772-def5-461c-ba3d-18c98eb192a8">
+
 ### Hi there 👋
 
 <!--
