@@ -1,7 +1,7 @@
 <img width="618" alt="image" src="https://github.com/SashG91/SashG91/assets/97494070/dc885ed4-b3d7-403f-949d-759f1ec0fd80">
 
 ### Hi there 👋
-## Full Stack Software Developer | Trainee Test Automation Engineer | ISTQB certified
+## Full Stack Software Developer | Salesforce Success Graduate Participant| 
 ## About me 👋
 
 I see myself as a product of consulting, education and tech. 
@@ -21,22 +21,5 @@ I am excited to connect and share my experiences, so feel free to reach out!
   />
 </a>
 
-
-
-
-
-
-<!--
-**SashG91/SashG91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## MY TECH STACK
+ **I’m currently learning ...**
