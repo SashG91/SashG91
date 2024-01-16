@@ -1,7 +1,7 @@
 <img width="618" alt="image" src="https://github.com/SashG91/SashG91/assets/97494070/dc885ed4-b3d7-403f-949d-759f1ec0fd80">
 
 ### Hi there 👋
-## Full Stack Software Developer | Salesforce Success Graduate Participant| 
+## Full Stack Software Developer | Salesforce Success Graduate Participant
 ## About me 👋
 
 I see myself as a product of consulting, education and tech. 
