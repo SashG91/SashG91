@@ -1,4 +1,4 @@
-<img width="618" alt="image" src="https://github.com/SashG91/SashG91/assets/97494070/dc885ed4-b3d7-403f-949d-759f1ec0fd80">
+<img width="771" alt="Screenshot 2024-02-19 at 14 56 21" src="https://github.com/SashG91/SashG91/assets/97494070/6ac0517c-6923-4c9b-a6e7-f3ffad620a96">
 
 
 ## Full Stack Software Developer | Salesforce Success Graduate Participant
